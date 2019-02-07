@@ -130,13 +130,13 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
 
 # Bitcoin
 ## Intro to Bitcoin and Blockchain
-- [ ] [Blockchain 101](https://youtu.be/_160oMzblY8)
-- [ ] [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
-- [ ] [What is a distributed ledger?](https://www.coindesk.com/information/what-is-a-distributed-ledger/)
-- [ ] [How Bitcoin actually works](https://youtu.be/bBC-nXj3Ng4)
+- [x] [Blockchain 101](https://youtu.be/_160oMzblY8)
+- [x] [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
+- [x] [What is a distributed ledger?](https://www.coindesk.com/information/what-is-a-distributed-ledger/)
+- [x] [How Bitcoin actually works](https://youtu.be/bBC-nXj3Ng4)
 - [ ] [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [ ] [Bitcoin Mining](https://www.youtube.com/watch?v=jXerV3f5jN8)
-- [ ] [Walk through a Bitcoin Block header](https://www.youtube.com/watch?v=gUwXCt1qkBU)
+- [x] [Walk through a Bitcoin Block header](https://www.youtube.com/watch?v=gUwXCt1qkBU)
 - [ ] [Bitcoin Block Explorer](https://blockchain.info/)
 - [ ] [Bitcoin History](https://youtu.be/apYieuvnUaE)
 - [ ] [Bitcoin Forum](https://bitcointalk.org/index.php?board=1.0)
