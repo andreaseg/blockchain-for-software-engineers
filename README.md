@@ -104,15 +104,15 @@ Blockchain technology is a multi-disciplinary field built atop cryptography, eco
     - [x] [Kademilia](https://en.wikipedia.org/wiki/Kademlia)
 
 ## Networking
-- [ ] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
-  - [ ] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
-  - [ ] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
-  - [ ] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
-- [ ] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
-  - [ ] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
-- [ ] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
-  - [ ] [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
-  - [ ] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
+- [x] [Computer Networking](https://en.wikipedia.org/wiki/Computer_network)
+  - [x] [TCP vs. UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+  - [x] [The Packet Model](https://en.wikipedia.org/wiki/Network_packet)
+  - [x] [Internet Routing](https://en.wikipedia.org/wiki/Routing)
+- [x] [Gossip Protocols](https://en.wikipedia.org/wiki/Gossip_protocol)
+  - [x] [Flooding](https://en.wikipedia.org/wiki/Flooding_%28computer_networking%29)
+- [x] [P2P Network Design](https://en.wikipedia.org/wiki/Peer-to-peer)
+  - [x] [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent)
+  - [x] [Tor](https://en.wikipedia.org/wiki/Tor_%28anonymity_network%29)
 
 ## Economics
 - [ ] [Game Theory](https://en.wikipedia.org/wiki/Game_theory)
